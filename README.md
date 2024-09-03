@@ -1,0 +1,1 @@
+Hello! This repository contains a cryptography code implementation that utilizes high CPU resources. The code demonstrates cryptographic techniques and algorithms but requires significant computational power for optimal performance. It is designed for educational purposes and may not be suitable for production environments due to its resource-intensive nature. 
